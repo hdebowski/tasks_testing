@@ -1,12 +1,12 @@
 # Internship tasks
 
-1) First task
+**1) First task**
 
 - Files: longest_substring_test.js and index.html
 
 - Tech: JavaScrpit
 
-2) Second task
+**2) Second task**
 
 - Files: example.spec.ts and playwright.config.ts 
 
