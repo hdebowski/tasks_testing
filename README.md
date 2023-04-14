@@ -14,6 +14,6 @@
 
 - Description: I did:
 
-- Functional Testing: Test with valid credentials for successful login and invalid credentials for failed login.
+-- Functional Testing: Test with valid credentials for successful login and invalid credentials for failed login.
 
-- Compatibility Testing: Test the login form on different browsers (chromium and Safari)
+-- Compatibility Testing: Test the login form on different browsers (chromium and Safari)
