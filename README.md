@@ -8,7 +8,7 @@
 
 **2) Second task**
 
-- Files: example.spec.ts and playwright.config.ts 
+- Files: tests/example.spec.ts and playwright.config.ts 
 
 - Tech: TypeScript with Playwright framework
 
