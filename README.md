@@ -1,4 +1,5 @@
-# testing_tasks
+# Internship tasks
+
 1) First task
 Files: longest_substring_test.js and index.html
 Tech: JavaScrpit
