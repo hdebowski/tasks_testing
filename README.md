@@ -12,7 +12,7 @@
 
 - Tech: TypeScript with Playwright framework
 
-Description: I did:
+- Description: I did:
 
 - Functional Testing: Test with valid credentials for successful login and invalid credentials for failed login.
 
