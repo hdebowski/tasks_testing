@@ -8,5 +8,6 @@ Tech: JavaScrpit
 Files: example.spec.ts and playwright.config.ts 
 Tech: TypeScript with Playwright framework
 Description: I did:
+
 2.1) Functional Testing: Test with valid credentials for successful login and invalid credentials for failed login.
 2.2) Compatibility Testing: Test the login form on different browsers (chromium and Safari)
