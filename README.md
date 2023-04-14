@@ -2,15 +2,15 @@
 
 1) First task
 
-Files: longest_substring_test.js and index.html
+- Files: longest_substring_test.js and index.html
 
-Tech: JavaScrpit
+- Tech: JavaScrpit
 
 2) Second task
 
-Files: example.spec.ts and playwright.config.ts 
+- Files: example.spec.ts and playwright.config.ts 
 
-Tech: TypeScript with Playwright framework
+- Tech: TypeScript with Playwright framework
 
 Description: I did:
 
