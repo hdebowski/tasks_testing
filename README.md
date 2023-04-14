@@ -4,7 +4,7 @@
 
 - Files: longest_substring_test.js and index.html
 
-- Tech: JavaScrpit
+- Tech: JavaScript
 
 **2) Second task**
 
